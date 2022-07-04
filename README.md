@@ -1,5 +1,5 @@
 # FoodBook
-**Bu projede kullanılan kütüphaneler**
+**Used libraries in this project**
 
 - [Retrofit](https://square.github.io/retrofit/)
 - [MVVM](https://developer.android.com/topic/libraries/architecture/viewmodel)
